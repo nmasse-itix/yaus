@@ -8,5 +8,5 @@ For now, there is no code but you can have a look at our
 
 ## Authors
 
-- Mathieu Demange ([@sigmate](/sigmate))
-- Nicolas Massé ([@nmasse-itix](/nmasse-itix))
+- Mathieu Demange ([@sigmate](https://github.com/sigmate))
+- Nicolas Massé ([@nmasse-itix](https://github.com/nmasse-itix))
